@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="https://www.wyzant.com/blog/wp-content/uploads/2021/06/Heres-How-and-What-Beginners-Use-to-Learn-New-Coding-Languages-1-1024x576.jpg.webp" style="width:800px;"> </p>
 <h1 align="center">Hi 👋, I'm KIFANE Yassine</h1>
 <h3 align="center">A Software Engineering Student at EMSI</h3>
 
@@ -5,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedAmineALLAF&style=for-the-badge&color=023373" />
+  <img src="https://komarev.com/ghpvc/?username=yassinekifane&style=for-the-badge&color=023373" />
 <p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinekifane&" alt="yassinekifane" /></p>
