@@ -20,7 +20,7 @@
 - :video_game: I like to play video games
 
 
-## Tech Stack 🛠 
+## Languages and Tools 🛠 
 
 
 #### Databases
