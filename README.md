@@ -66,10 +66,10 @@
   <img src="https://komarev.com/ghpvc/?username=yassinekifane&style=for-the-badge&color=023373" />
 <p>
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinekifane&" alt="yassinekifane" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekifane&langs_count=10&layout=compact" alt="yassinekifane" /></p>
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassinekifane&show_icons=true&locale=en&layout=compact" alt="yassinekifane" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yassinekifane&show_icons=true&locale=en" alt="yassinekifane" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinekifane&" alt="yassinekifane" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinekifane&show_icons=true" alt="yassinekifane" />
 </p> 
 
 
