@@ -16,7 +16,6 @@
 :heart: Photographie | :black_heart: Music | :blue_heart: Programming
 
 - :earth_americas: I'm from Oujda - Morocco
-- :gem: I'm 22 years old
 - :video_game: I like to play video games
 
 
